@@ -34,12 +34,11 @@ This project is a Python-based Strong Password Generator that creates secure pas
 
 ## Example
 
-  ```sh
-  $ python Strong_Password_Generator.py
-  Enter the minimum length of the password: 12
-  Include numbers? (yes/no): yes
-  Include special characters? (yes/no): yes
-  The generated password is: A1b2C3d4E5!@
+$ python Strong_Password_Generator.py
+Enter the minimum length of the password: 12
+Include numbers? (yes/no): yes
+Include special characters? (yes/no): yes
+The generated password is: A1b2C3d4E5!@
 
 ## Contributing
 
